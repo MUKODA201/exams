@@ -1,0 +1,41 @@
+.maindiv{
+    flex-basis: 20%;
+    padding: 20px;
+    background-color: rgb(231, 164, 164);
+    color: black;
+    font-family: Century Schoolbook;
+    
+}
+.browndiv{
+    
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding-right: 20px;
+    color: white;
+    font-size: 20px;
+    
+}
+.browndiv{
+    background-color: brown;
+    padding: 5px;
+    display: flex;
+    color: white;
+   text-align: left;
+}
+.lowerdiv{
+    background-image: url(./restaurant-bar-slide-002.jpg);
+    display: flex;
+    padding: 8%;
+    background-size: contain;
+}    
+
+
+
+
